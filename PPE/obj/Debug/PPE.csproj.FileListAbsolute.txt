@@ -1,0 +1,72 @@
+C:\Users\Valentin\Desktop\PPE LOURD\PPE\PPE\bin\Debug\PPE.exe
+C:\Users\Valentin\Desktop\PPE LOURD\PPE\PPE\bin\Debug\PPE.pdb
+C:\Users\Valentin\Desktop\PPE LOURD\PPE\PPE\bin\Debug\PPE.exe.config
+C:\Users\Valentin\Desktop\PPE LOURD\PPE\PPE\bin\Debug\mybd.accdb
+C:\Users\Valentin\Desktop\PPE LOURD\PPE\PPE\obj\Debug\PPE.Form1.resources
+C:\Users\Valentin\Desktop\PPE LOURD\PPE\PPE\obj\Debug\PPE.Form2.resources
+C:\Users\Valentin\Desktop\PPE LOURD\PPE\PPE\obj\Debug\PPE.Form3.resources
+C:\Users\Valentin\Desktop\PPE LOURD\PPE\PPE\obj\Debug\PPE.Properties.Resources.resources
+C:\Users\Valentin\Desktop\PPE LOURD\PPE\PPE\obj\Debug\PPE.csproj.GenerateResource.Cache
+C:\Users\Valentin\Desktop\PPE LOURD\PPE\PPE\obj\Debug\PPE.exe
+C:\Users\Valentin\Desktop\PPE LOURD\PPE\PPE\obj\Debug\PPE.pdb
+C:\Users\Valentin\Desktop\PPE LOURD\PPE\PPE\obj\Debug\PPE.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\PPE LOURD\PPE\PPE\obj\Debug\PPE.Form4.resources
+C:\Users\Valentin\Desktop\PPE LOURD - Copie\PPE\PPE\bin\Debug\PPE.exe.config
+C:\Users\Valentin\Desktop\PPE LOURD - Copie\PPE\PPE\obj\Debug\PPE.exe
+C:\Users\Valentin\Desktop\PPE LOURD - Copie\PPE\PPE\obj\Debug\PPE.pdb
+C:\Users\Valentin\Desktop\PPE LOURD - Copie\PPE\PPE\bin\Debug\mybd.accdb
+C:\Users\Valentin\Desktop\PPE LOURD - Copie\PPE\PPE\bin\Debug\PPE.exe
+C:\Users\Valentin\Desktop\PPE LOURD - Copie\PPE\PPE\bin\Debug\PPE.pdb
+C:\Users\Valentin\Desktop\PPE LOURD - Copie\PPE\PPE\obj\Debug\PPE.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\PPE LOURD - Copie\PPE\PPE\obj\Debug\PPE.Form1.resources
+C:\Users\Valentin\Desktop\PPE LOURD - Copie\PPE\PPE\obj\Debug\PPE.Form2.resources
+C:\Users\Valentin\Desktop\PPE LOURD - Copie\PPE\PPE\obj\Debug\PPE.Form3.resources
+C:\Users\Valentin\Desktop\PPE LOURD - Copie\PPE\PPE\obj\Debug\PPE.Form4.resources
+C:\Users\Valentin\Desktop\PPE LOURD - Copie\PPE\PPE\obj\Debug\PPE.Properties.Resources.resources
+C:\Users\Valentin\Desktop\PPE LOURD - Copie\PPE\PPE\obj\Debug\PPE.csproj.GenerateResource.Cache
+C:\Users\Valentin\Desktop\Epreuve E4\PPE\PPE\bin\Debug\PPE.exe.config
+C:\Users\Valentin\Desktop\Epreuve E4\PPE\PPE\obj\Debug\PPE.exe
+C:\Users\Valentin\Desktop\Epreuve E4\PPE\PPE\obj\Debug\PPE.pdb
+C:\Users\Valentin\Desktop\Epreuve E4\PPE\PPE\bin\Debug\mybd.accdb
+C:\Users\Valentin\Desktop\Epreuve E4\PPE\PPE\bin\Debug\PPE.exe
+C:\Users\Valentin\Desktop\Epreuve E4\PPE\PPE\bin\Debug\PPE.pdb
+C:\Users\Valentin\Desktop\Epreuve E4\PPE\PPE\obj\Debug\PPE.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\Epreuve E4\PPE\PPE\obj\Debug\PPE.Form1.resources
+C:\Users\Valentin\Desktop\Epreuve E4\PPE\PPE\obj\Debug\PPE.Form2.resources
+C:\Users\Valentin\Desktop\Epreuve E4\PPE\PPE\obj\Debug\PPE.Form3.resources
+C:\Users\Valentin\Desktop\Epreuve E4\PPE\PPE\obj\Debug\PPE.Form4.resources
+C:\Users\Valentin\Desktop\Epreuve E4\PPE\PPE\obj\Debug\PPE.Properties.Resources.resources
+C:\Users\Valentin\Desktop\Epreuve E4\PPE\PPE\obj\Debug\PPE.csproj.GenerateResource.Cache
+C:\Users\Valentin\Desktop\Epreuve E4\PPE-LOURD\PPE\bin\Debug\PPE.exe.config
+C:\Users\Valentin\Desktop\Epreuve E4\PPE-LOURD\PPE\obj\Debug\PPE.exe
+C:\Users\Valentin\Desktop\Epreuve E4\PPE-LOURD\PPE\obj\Debug\PPE.pdb
+C:\Users\Valentin\Desktop\Epreuve E4\PPE-LOURD\PPE\bin\Debug\mybd.accdb
+C:\Users\Valentin\Desktop\Epreuve E4\PPE-LOURD\PPE\bin\Debug\PPE.exe
+C:\Users\Valentin\Desktop\Epreuve E4\PPE-LOURD\PPE\bin\Debug\PPE.pdb
+C:\Users\Valentin\Desktop\Epreuve E4\PPE-LOURD\PPE\obj\Debug\PPE.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\Epreuve E4\PPE-LOURD\PPE\obj\Debug\PPE.Form1.resources
+C:\Users\Valentin\Desktop\Epreuve E4\PPE-LOURD\PPE\obj\Debug\PPE.Form2.resources
+C:\Users\Valentin\Desktop\Epreuve E4\PPE-LOURD\PPE\obj\Debug\PPE.Form3.resources
+C:\Users\Valentin\Desktop\Epreuve E4\PPE-LOURD\PPE\obj\Debug\PPE.Form4.resources
+C:\Users\Valentin\Desktop\Epreuve E4\PPE-LOURD\PPE\obj\Debug\PPE.Properties.Resources.resources
+C:\Users\Valentin\Desktop\Epreuve E4\PPE-LOURD\PPE\obj\Debug\PPE.csproj.GenerateResource.Cache
+C:\Users\Valentin\Desktop\PPE-LOURD version finie\PPE\bin\Debug\PPE.exe.config
+C:\Users\Valentin\Desktop\PPE-LOURD version finie\PPE\obj\Debug\PPE.exe
+C:\Users\Valentin\Desktop\PPE-LOURD version finie\PPE\obj\Debug\PPE.pdb
+C:\Users\Valentin\Desktop\PPE-LOURD version finie\PPE\bin\Debug\mybd.accdb
+C:\Users\Valentin\Desktop\PPE-LOURD version finie\PPE\bin\Debug\PPE.exe
+C:\Users\Valentin\Desktop\PPE-LOURD version finie\PPE\bin\Debug\PPE.pdb
+C:\Users\Valentin\Desktop\PPE-LOURD version finie\PPE\obj\Debug\PPE.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\PPE-LOURD version finie\PPE\obj\Debug\PPE.Properties.Resources.resources
+C:\Users\Valentin\Desktop\PPE-LOURD version finie\PPE\obj\Debug\PPE.csproj.GenerateResource.Cache
+C:\Users\Valentin\Desktop\PPE-LOURD version finie\PPE\obj\Debug\PPE.home.resources
+C:\Users\Valentin\Desktop\PPE-LOURD version finie\PPE\obj\Debug\PPE.login.resources
+C:\Users\Valentin\Desktop\PPE-LOURD version finie\PPE\obj\Debug\PPE.addclient.resources
+C:\Users\Valentin\Desktop\PPE-LOURD version finie\PPE\obj\Debug\PPE.client.resources
+C:\Users\Valentin\Desktop\PPE-LOURD version finie\PPE\obj\Debug\PPE.viewclient.resources
+C:\Users\Valentin\Desktop\PPE-LOURD version finie\PPE\obj\Debug\PPE.addfournisseur.resources
+C:\Users\Valentin\Desktop\PPE-LOURD version finie\PPE\obj\Debug\PPE.fournisseur.resources
+C:\Users\Valentin\Desktop\PPE-LOURD version finie\PPE\obj\Debug\PPE.viewfournisseur.resources
+C:\Users\Valentin\Desktop\PPE-LOURD version finie\PPE\obj\Debug\PPE.produit.resources
+C:\Users\Valentin\Desktop\PPE-LOURD version finie\PPE\obj\Debug\PPE.addproduit.resources
+C:\Users\Valentin\Desktop\PPE-LOURD version finie\PPE\obj\Debug\PPE.viewproduit.resources
